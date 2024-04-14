@@ -1,3 +1,4 @@
+![aws serverles image project](https://github.com/AnanyaKakani/Serverless-Image-Analysis-and-Management-System/assets/57082489/8873c442-280e-443a-9e11-539a47467efb)
 # Serverless Image Analysis and Management System
 
 ## Overview
